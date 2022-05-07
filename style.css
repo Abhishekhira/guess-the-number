@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,wght@1,800;1,900&family=Roboto:ital,wght@1,900&display=swap');
+
+
+
+body{
+    background-color:#222;
+}
+
+
+h1 {color: white;
+    font-family: 'Roboto', sans-serif;
+    height: 24px;
+    display: flex;
+    font-size: 78px;
+    text-align: center;
+    justify-content: center;
+    width: 100vw;
+}
+#number {
+    color: white;
+    width: 189px;
+    font-family: 'Roboto', sans-serif;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    font-size: 100px;
+    border: 10px solid #d79922;
+    height: 110px;
+    box-sizing: border-box;
+    align-items: center;
+}
+.hike {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+#btn {
+    font-family: 'Roboto', sans-serif;
+    border: 0px;
+    cursor: pointer;
+    background-color: white;
+    display: flex;
+    width: 100px;
+    justify-content: center;
+    height: 37px;
+    align-items: center;
+}
+#txt {
+    background-color: #d79922;
+    display: flex;
+    justify-content: center;
+    margin: 55px 58px;
+}
+#inp {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    border: 1px solid grey;
+    background: #d79922;
+    margin: 41px;
+    height: 53px;
+}
+.lbl{
+    background-color: #d79922;
+}
+.imp{
+    display: flex;
+    justify-content: center;
+}
+#btnn {
+    font-family: 'Roboto', sans-serif;
+    cursor: pointer;
+    height: 45px;
+    font-size: xx-large;
+    background: #5d5c61;
+    border: 1px solid black;
+    width: 140px;
+}
+.btnyn{
+     
+        display: flex;
+        justify-content: center;
+   
+}
+#message{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+font-size: 50px;
+}
+.score{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    display: inline-block;
+    float: right;
+}
+#para{
+    display: contents;
+    float: right;
+    position: relative;
+    right: 76px;
+}
+#win{
+           display: none;
+          height: 5vh;
+        justify-content: center;
+    
+}
+#audio{
+    visibility: hidden;
+}
+#ttk{
+    display: inline-block;
+    float: right;
+}
+#name{
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+  display: inline-block;
+    text-align: center;
+}
+.fix{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    display: inline-block;
+    text-align: center;
+
+}
+#lbl{
+    color: white;
+}
+#high{
+    display: contents;
+     color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+}
